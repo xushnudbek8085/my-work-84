@@ -1,0 +1,22 @@
+.box{
+    background-color: aliceblue;
+    width: 400px;
+    height: 200px;
+    border-bottom: solid red;
+    border-left: solid red;
+    border-right: solid red;
+    /* padding: 0px 0px 0px 0px; */
+    margin: 300px 100px 200px 500px;
+    
+    
+}
+body{
+    background-color: pink;
+}
+h1{
+    background-color: red;
+}
+p{
+    padding: 10x;
+    margin: 10px;
+}
